@@ -15,7 +15,7 @@ let baiduMap = {
 
 let baiduMapAdapter = {
   show: function () {
-    return baiduMap.display()
+    return baiduMap.display
   },
 }
 
