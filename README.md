@@ -1,7 +1,8 @@
-**学习记录**  
+## **学习记录**
+
 记录一些平时开发过程中, 学习到的前端用法或使用场景
 
-**设计模式**
+## 设计模式
 
 - [适配器模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Adapter.js)
 - [职责链模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Chain%20of%20Responsibility.js)
