@@ -1,4 +1,4 @@
-/* 策略模式 */
+/* 单例模式 */
 
 let getSingle = (fn) => {
   let res
