@@ -1,8 +1,8 @@
-## **学习记录**
+### **学习记录**
 
 记录一些平时开发过程中, 学习到的前端用法或使用场景
 
-## 设计模式
+### 设计模式
 
 - [适配器模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Adapter.js)
 - [职责链模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Chain%20of%20Responsibility.js)
@@ -18,3 +18,7 @@
 - [状态模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/State.js)
 - [策略模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Strategy.js)
 - [模板方法模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Template%20Method.js)
+
+### javascript
+
+- [requestAnimationFrame 实现动画](https://github.com/Hayden0323/my-learning-library/blob/master/javascript/requestAnimationFrame%E5%AE%9E%E7%8E%B0%E5%8A%A8%E7%94%BB.md)
