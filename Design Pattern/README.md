@@ -1,0 +1,16 @@
+### 设计模式
+
+- [适配器模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Adapter.js)
+- [职责链模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Chain%20of%20Responsibility.js)
+- [命令模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Command.js)
+- [组合模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Composite.js)
+- [装饰者模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Decorator.js)
+- [享元模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Flyweight.js)
+- [迭代器模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Iterator.js)
+- [中介者模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Mediator.js)
+- [观察者模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Observer.js)
+- [代理模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Proxy.js)
+- [单例模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Singleton.js)
+- [状态模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/State.js)
+- [策略模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Strategy.js)
+- [模板方法模式](https://github.com/Hayden0323/my-learning-library/blob/master/Design%20Pattern/Template%20Method.js)
