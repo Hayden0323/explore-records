@@ -8,3 +8,4 @@
 - [页面坐标](https://github.com/Hayden0323/my-learning-library/blob/master/javascript/%E9%A1%B5%E9%9D%A2%E5%9D%90%E6%A0%87.md)
 - [鼠标拖放事件](https://github.com/Hayden0323/my-learning-library/blob/master/javascript/%E9%BC%A0%E6%A0%87%E6%8B%96%E6%94%BE%E4%BA%8B%E4%BB%B6.md)
 - [Javascript 动画](https://github.com/Hayden0323/my-learning-library/blob/master/javascript/Javascript%E5%8A%A8%E7%94%BB.md)
+- [正则表达式（RegExp）和字符串（String）的方法](https://github.com/Hayden0323/my-learning-library/blob/master/javascript/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%EF%BC%88RegExp%EF%BC%89%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2%EF%BC%88String%EF%BC%89%E7%9A%84%E6%96%B9%E6%B3%95.md)
